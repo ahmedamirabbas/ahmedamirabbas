@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @amedo579
-- 👀 I’m interested in game and web development
-- 🌱 I’m currently learning html
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in game development
 - 📫 How to reach me amedo579@gmail.com
 
 <!---
