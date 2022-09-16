@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amedo579
+- 👋 Hi, I’m Ahmed Amir
 - 👀 I’m interested in game development
 - 📫 How to reach me amedo579@gmail.com
 
