@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in _Game and App Dev_
 - I'm  into _Digital Art_ and I'm a _Graphic Designer_ myself.
-- I'm currently learning to become a **_Full Stack Software Engineer_** at ALX.
+- I'm currently learning to become a **_Full Stack Software Engineer_**.
 - 📫 How to reach me ahmad.abdulkhalig@gmail.com
 
 <!---
