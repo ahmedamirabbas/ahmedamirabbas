@@ -5,6 +5,10 @@
 
 - #### 🔭 I’m currently working on my GameDev skills.
 - #### 👯 I’m open to collaborate on Software Engineering projects.
+- #### 👀 I’m interested in _Game Dev and Apps Dev_
+- #### I'm  into _Digital Art_ and I'm a _Graphic Designer_ myself.
+- #### I'm currently learning to become a **_Full Stack Software Engineer_**.
+- #### 📫 How to reach me ahmad.abdulkhalig@gmail.com
 
 # Contact 
 * [LinkedIn](https://www.linkedin.com/in/ahmed-abbas-68a77bbb/)
@@ -24,10 +28,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedamirabbas&show_icons=true&theme=radical)
 
-- 👀 I’m interested in _Game and App Dev_
-- I'm  into _Digital Art_ and I'm a _Graphic Designer_ myself.
-- I'm currently learning to become a **_Full Stack Software Engineer_**.
-- 📫 How to reach me ahmad.abdulkhalig@gmail.com
 
 <!---
 amedo579/amedo579 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
