@@ -5,7 +5,7 @@
 
 - #### 🔭 I’m currently working on my GameDev skills.
 - #### 👯 I’m open to collaborate on Software Engineering projects.
-- #### 👀 I’m interested in _Game Dev and Apps Dev_
+- #### 👀 I’m interested in _Game Dev and Android Apps Dev_
 - #### I'm  into _Digital Art_ and I'm a _Graphic Designer_ myself.
 - #### I'm currently learning to become a **_Full Stack Software Engineer_**.
 - #### 📫 How to reach me ahmad.abdulkhalig@gmail.com
