@@ -3,15 +3,15 @@
 
 ### I am a Software Engineering student at ALX. `I learn by doing....`
 
-- #### 🔭 I’m currently working on my GameDev skills.
+- #### 🔭 I’m currently working on my front-end skills.
 - #### 👯 I’m open to collaborate on Software Engineering projects.
-- #### 👀 I’m interested in _Game Dev and Android Apps Dev_
+- #### 👀 I’m interested in _front-end and game development_
 - #### I'm  into _Digital Art_ and I'm a _Graphic Designer_ myself.
 - #### I'm currently learning to become a **_Full Stack Software Engineer_**.
 - #### 📫 How to reach me ahmad.abdulkhalig@gmail.com
 
 # Contact 
-* [LinkedIn](https://www.linkedin.com/in/ahmed-abbas-68a77bbb/)
+* [LinkedIn](https://www.linkedin.com/in/ahmedamirabbas/)
 * [Twitter](https://twitter.com/prince_hermit)
 * [Email](mailto:ahmad.abdulkhalig@gmail.com)
 
@@ -30,6 +30,6 @@
 
 
 <!---
-amedo579/amedo579 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ahmedamirabbas/ahmedamirabbas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
