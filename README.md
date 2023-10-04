@@ -1,13 +1,12 @@
 # [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hello!+Welcome+To+My+Profile.;My+Name+Is+Ahmed+Amir.;I+Am+Passionate+About+GameDev;I+Learn+By+Doing)](https://git.io/typing-svg)
 # Hi I'm Ahmed. 👋
 
-### I am a Software Engineering student at ALX. `I learn by doing....`
+### I am a Software Engineer, specializing in web development.
 
 - #### 🔭 I’m currently working on my front-end skills.
-- #### 👯 I’m open to collaborate on Software Engineering projects.
-- #### 👀 I’m interested in _front-end and game development_
+- #### 👯 I’m open to collaborating on Software Engineering projects.
+- #### 👀 I’m interested in _web development and game development_
 - #### I'm  into _Digital Art_ and I'm a _Graphic Designer_ myself.
-- #### I'm currently learning to become a **_Full Stack Software Engineer_**.
 - #### 📫 How to reach me ahmad.abdulkhalig@gmail.com
 
 # Contact 
