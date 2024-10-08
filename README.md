@@ -37,7 +37,6 @@
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
 <br/>
-<p align="center">
 <!--<a href="https://github.com/ahmedamirabbas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmedamirabbas&theme=buefy&show_icons=true" />-->
 
@@ -49,7 +48,6 @@
 <br/>
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ahmedamirabbas&theme=dark" alt="GitHub Streak" /></a>
-</p>
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
