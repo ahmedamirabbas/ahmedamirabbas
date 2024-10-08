@@ -39,11 +39,11 @@
 <br/>
 
 <a href="https://github.com/ahmedamirabbas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmedamirabbas&theme=buefy&show_icons=true" />
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmedamirabbas&theme=buefy&show_icons=true" />-->
 
 <br/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedamirabbas&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedamirabbas&theme=dark&layout=compact" />
 </a>
 
 <br/>
