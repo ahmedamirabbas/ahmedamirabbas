@@ -37,7 +37,7 @@
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
 <br/>
-<div text-align=center>
+<div style="margin: 0 auto; text-align: center; width: fit-content;">
 <a href="https://github.com/ahmedamirabbas">
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmedamirabbas&theme=buefy&show_icons=true" />-->
 
