@@ -35,7 +35,8 @@
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
-
+<br/>
+<a href="https://app.daily.dev/ahmedamirdev"><img src="https://api.daily.dev/devcards/v2/aCxSPB6hJYagKGCV84RvG.png?type=default&r=ik8" width="356" alt="Ahmed's Dev Card"/></a>
 <br/>
 <!--<a href="https://github.com/ahmedamirabbas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmedamirabbas&theme=buefy&show_icons=true" />-->
